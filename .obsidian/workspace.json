@@ -1,0 +1,111 @@
+{
+  "main": {
+    "id": "7c7acc0ccbd564fa",
+    "type": "split",
+    "children": [
+      {
+        "id": "71c218164c90ca6d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d9b94edf39629e26",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Part 7 Bank Accounts and Financial Holdings.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7409d800fd9ba6c3",
+    "type": "split",
+    "children": [
+      {
+        "id": "f29c0864fe7eca38",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "824e1198bb58598f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "be76670c41d62289",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "Intro",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 318
+  },
+  "right": {
+    "id": "6f1275a1604bf627",
+    "type": "split",
+    "children": [
+      {
+        "id": "c24413f13358286e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8587d209f26fb398",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Part 7 Bank Accounts and Financial Holdings.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "d9b94edf39629e26",
+  "lastOpenFiles": [
+    "START HERE.md",
+    "Appendix 2  How to Use a Template File to Create Data Files.md",
+    "Templates/Income and Expense Template.md",
+    "Templates/Bank and Financial Templates/Account Template.md",
+    "Part 7 Bank Accounts and Financial Holdings.md",
+    "Part 6 Insurance.md",
+    "Templates/Insurance Templates/Other Vehicle Template.md",
+    "Templates/Insurance Templates/Boat or Trailer Template.md",
+    "Templates/Insurance Templates/Life Insurance Template.md",
+    "Templates/Insurance Templates/Vehicle Template.md"
+  ]
+}

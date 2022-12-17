@@ -1,0 +1,97 @@
+{
+  "main": {
+    "id": "7c7acc0ccbd564fa",
+    "type": "split",
+    "children": [
+      {
+        "id": "d9b94edf39629e26",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7409d800fd9ba6c3",
+    "type": "split",
+    "children": [
+      {
+        "id": "f29c0864fe7eca38",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "824e1198bb58598f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "be76670c41d62289",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "Intro",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 318
+  },
+  "right": {
+    "id": "6f1275a1604bf627",
+    "type": "split",
+    "children": [
+      {
+        "id": "c24413f13358286e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8587d209f26fb398",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "d9b94edf39629e26",
+  "lastOpenFiles": [
+    "START HERE.md",
+    "Part 7 Bank Accounts and Financial Holdings.md",
+    "Bank and Financial Templates/Bond Account Template.md",
+    "Bank and Financial Templates/Account Template.md",
+    "Images/Book Cover.jpg",
+    "Appendix 2  How to Use a Template File to Create Data Files.md",
+    "Insurance Templates/Vehicle Template.md",
+    "Part 9 Personal Property.md",
+    "Bank and Financial Templates/Loan Borrower Template.md",
+    "Part 5 Important Documents.md"
+  ]
+}
