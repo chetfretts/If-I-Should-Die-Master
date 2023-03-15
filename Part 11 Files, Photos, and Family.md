@@ -1,5 +1,5 @@
 #ToAddData 
-# Part 11 Files, Photos, and Family
+
 ## Introduction
 Much of what we do in these areas is done on our computers and as such our heirs should understand how to access your computer to retrieve what you have stored.  Most of our children and grandchildren are vastly more adept in their digital skills than we are.  This should not be a problem.  Make sure that it isn't!
 

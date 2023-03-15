@@ -1,6 +1,7 @@
 #ToWrite
 #ToAddData 
-# Part 16 Things Left Unsaid
+# Things Left Unsaid
+
 The following .jpg file shows the authors comments:
 
 [[Things Left Unsaid.jpg]]

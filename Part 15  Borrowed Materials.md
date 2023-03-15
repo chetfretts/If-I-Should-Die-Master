@@ -1,5 +1,5 @@
 #ToAddData 
-# Part 15 Borrowed Materials
+
 ## Introduction
 A very dear friend of mine will tell you that for his age he's in great physical condition.  He will also say he is legally blind and subscribes to the Library of Congress "Talking Books Program" and has on loan both a tape player and CD player.  He also has a transceiver in his bedroom that periodically queries the defibrillator - pacemaker implanted in his chest to transmit information to his cardiologist.  He also has a medical condition that requires him to measure the coagulation capability of his blood for which he has a machine on loan.
 

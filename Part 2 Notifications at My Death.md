@@ -1,5 +1,5 @@
 #ToAddData 
-# Part 2 Notifications at My Death
+
 ## Introduction
 Much of this issue goes without saying.  However, your children may not know old college roommates, whether you want death publicized in publications (i.e. fraternity, sorority, military, club, Association, Homeowner Newsletters, etc.)  It's best to spend some time considering these things.  Also, we all have so many lists of  names (Christmas card, rolodex, phone books, PDA, cell phones, computers, etc.) that our spouse or children may not be able to determine who exactly should be notified.
 

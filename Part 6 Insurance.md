@@ -1,5 +1,5 @@
 #ToAddData 
-# Part 6 Insurance
+
 ## Life Insurance
 [[Life Insurance Template]]
 (**Using  Life Insurance Template as a template, add a new file for each life insurance policy**)

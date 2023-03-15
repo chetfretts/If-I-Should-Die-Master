@@ -1,5 +1,5 @@
 #Template 
-**Loaned to Otherss:**
+# Loaned to Others:
     Item: (**Item**)
     Loaned To:  (**Name**)
         (**Address**)

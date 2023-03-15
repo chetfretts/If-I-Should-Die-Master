@@ -1,7 +1,7 @@
 #ToAddData 
-# Part 9 Personal Property
+
 ## Introduction
-Simply put, personal property is all property that is not directly connected to land or buildings.  Some personal property (automobiles and other motor vehicles, boats and watercraft, certificates of deposit, stocks, bonds, etc.) have a paper trail of ownership mut most personal property has no proof of ownership documentation other than possiblly a bill of sale.
+Simply put, personal property is all property that is not directly connected to land or buildings.  Some personal property (automobiles and other motor vehicles, boats and watercraft, certificates of deposit, stocks, bonds, etc.) have a paper trail of ownership must most personal property has no proof of ownership documentation other than possibly a bill of sale.
 
 The purpose of this Part ( is to document that personal property of interest to your heirs (vehicles, boats, jewelry, art, money, stocks, bonds, etc.)  There will be some suggestions about how to deal with other personal property.
 
@@ -26,7 +26,7 @@ These may include stocks, bonds, mutual funds, variable annuities, 401 K, IRA's,
 [[Art Work Template]]
 
 ## Furniture and Other Items
-[[Furniture and Other Template]]
+[[Furniture and Other Items Template]]
 
 ## Pets
 [[Pets or Animals Template]]

@@ -8,7 +8,7 @@ You are the Borrower:
          (**Address**)
          (**Phone**)
          (**email**)
-    Type or transaction (Mortgage, Car, Boat, Home Equity, etc.):  (**Type**)
+    Type of transaction: (**Type**) (e.g., Mortgage, Car, Boat, Home Equity, etc.)
     Original Loan Amount:  (**Amount**)
     Original Date of Loan:  (**Date**)
     Location of Loan contract:  (**Location**)

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Part 7 Bank Accounts and Financial Holdings.md",
+                "file": "Appendix 2  How to Use a Template File to Create Data Files.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Part 7 Bank Accounts and Financial Holdings.md",
+                "file": "Appendix 2  How to Use a Template File to Create Data Files.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,17 +95,48 @@
     "width": 300,
     "collapsed": true
   },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false
+    }
+  },
   "active": "d9b94edf39629e26",
   "lastOpenFiles": [
+    "Appendix 1 Overview of Obsidian.md",
+    "Appendix 2  How to Use a Template File to Create Data Files.pdf",
+    "Part 16  Things Left Unsaid.md",
+    "Part 12 Income and Expenses.md",
+    "Images/Things Left Unsaid.jpg",
+    "Part 15  Borrowed Materials.md",
+    "Templates/Borrowed Materials Templates/Loaned to Others Template.md",
+    "Templates/Borrowed Materials Templates/Other Items Template.md",
+    "Templates/Borrowed Materials Templates/Items on Loan Template.md",
+    "Part 14  Survivable Relationships.md",
+    "Part 13  Business Relationships.md",
+    "Templates/Business Relationships Template.md",
+    "Part 11 Files, Photos, and Family.md",
+    "Part 10  Passwords, Pins, User IDs, and Keys.md",
+    "Part 9 Personal Property.md",
+    "Templates/Personal Property Templates/Pets or Animals Template.md",
+    "Templates/Personal Property Templates/Furniture and Other Items Template.md",
+    "Templates/Personal Property Templates/Art Work Template.md",
+    "Templates/Personal Property Templates/Jewelry Template.md",
+    "Templates/Bank and Financial Templates/Investment Account Template.md",
+    "Templates/Personal Property Templates/Certificate of Deposit Template.md",
+    "Templates/Personal Property Templates/Boat or Watercraft or Aircraft Template.md",
+    "Templates/Personal Property Templates/Vehicle or Trailer Template.md",
     "START HERE.md",
+    "README.md",
+    "Part 8 Real Property.md",
     "Appendix 2  How to Use a Template File to Create Data Files.md",
-    "Templates/Income and Expense Template.md",
-    "Templates/Bank and Financial Templates/Account Template.md",
-    "Part 7 Bank Accounts and Financial Holdings.md",
-    "Part 6 Insurance.md",
-    "Templates/Insurance Templates/Other Vehicle Template.md",
-    "Templates/Insurance Templates/Boat or Trailer Template.md",
-    "Templates/Insurance Templates/Life Insurance Template.md",
-    "Templates/Insurance Templates/Vehicle Template.md"
+    "Images/Introduction.jpg",
+    "Images/Table of Contents Page 2.jpg",
+    "Images/Table of Contents Page 1.jpg",
+    "Images/Facing End of Life Issues.jpg",
+    "Images/Book Cover.jpg"
   ]
 }

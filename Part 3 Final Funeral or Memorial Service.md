@@ -1,5 +1,5 @@
 #ToAddData 
-# Part 3 Final Funeral or Memorial Service
+
 I have selected the following Funeral Director to handle arrangements for me:
     (**Name     Address     Phone**)
 
