@@ -19,6 +19,9 @@ Here are the authors Table of Contents:
 Here is the author's Introduction:
 [[Introduction.jpg]]
 
+Here is my transcription of the author's introduction
+[[Transcription of Introduction]]
+
 [[Part 1 Before I Sleep]]
 [[Part 2 Notifications at My Death]]
 [[Part 3 Final Funeral or Memorial Service]]
